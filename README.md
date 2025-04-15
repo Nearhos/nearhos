@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nearhos, an electrical engineering student at Toronto Metropolitan University</h1>
 <h3 align="center">I am really interested in machine learning, firmware, and biomedical engineering!</h3>
-<p>Check out my <a href="https://nearhos.github.io/personalwebsite2025/" target="_blank">Check My Portfolio Website</a>!</p>
+<p>Check out my <a href="https://nearhos.github.io/personalwebsite2025/" target="_blank">Portfolio Website</a>!</p>
 <p>Reach me at <a href="nearhos.hatzinikolaou22@gmail.com" style="text-decoration: underline;">nearhos.hatzinikolaou22@gmail.com</a>.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nearhos&label=Profile%20views&color=0e75b6&style=flat" alt="nearhos" /> </p>
